@@ -1,5 +1,5 @@
 name: astrbot_plugin_file_sender_llm
 author: kfcll
-description: 一个文件发送的小工具，让bot拥有发送文件的能力，支持设置路径，和自然语言调用。
+description: 一个文件发送的小工具，让bot拥有发送文件的能力，支持设置路径和自然语言调用。
 version: 1.1.0
 repo: https://github.com/fcll32/astrbot_plugin_file_sender_llm
