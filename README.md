@@ -1,2 +1,3 @@
-# astrbot-
+# astrbot_plugin_file_s
+ender_llm
 一个让bot识别自然语言并主动发送文件的插件
